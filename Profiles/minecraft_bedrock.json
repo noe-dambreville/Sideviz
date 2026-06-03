@@ -18,9 +18,5 @@
   "low_freq_boost": 1.2,
   "high_freq_boost": 0.9,
   "visual_mode": "sides",
-  "use_custom_color": false,
-  "custom_r": 1,
-  "custom_g": 0.5,
-  "custom_b": 0,
   "process_names": []
 }

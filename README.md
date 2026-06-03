@@ -7,7 +7,7 @@ Sideviz est une application gratuite pour les joueurs sourds ou malentendants qu
 La couleur change aussi selon le type de son. Les sons graves s'affichent en rouge et les sons aigus en bleu et elle tourne en arrière-plan et n'affecte pas les performances de ton PC ni de ton jeu.
 
 Aperçus sur les differents jeux :
-- [images](https://github.com/noe-dambreville/Sideviz/tree/main/ressources/arc%20raiders%20apper%C3%A7u) 
+- [images](https://github.com/noe-dambreville/Sideviz/tree/main/img) 
 - [Vidéos Youtube](https://www.youtube.com/@Dnoe-mp4)
 
 ## Ce que ça fait

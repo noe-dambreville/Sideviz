@@ -2,11 +2,9 @@
 
 Sideviz est une application gratuite pour les joueurs sourds ou malentendants qui ont du mal à localiser d'où viennent les sons dans un jeu. Elle affiche une lueur sur le bord gauche ou droit de ton écran selon la direction du son. Un bruit à droite et le bord droit s'allume. Un bruit à gauche et le bord gauche s'allume. Plus le son est fort plus la lueur est intense.
 
-![Aperçu de l'interface](/img/interface.png)![Aperçu de l'interface](/img/presentation.png)
+![Aperçu de l'interface](/img/interface.png)
 
 La couleur change aussi selon le type de son. Les sons graves s'affichent en rouge et les sons aigus en bleu et elle tourne en arrière-plan et n'affecte pas les performances de ton PC ni de ton jeu.
-
-
 
 Aperçus sur les differents jeux :
 - [images](https://github.com/noe-dambreville/Sideviz/tree/main/ressources/arc%20raiders%20apper%C3%A7u) 

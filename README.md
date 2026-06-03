@@ -8,7 +8,7 @@ La couleur change aussi selon le type de son. Les sons graves s'affichent en rou
 
 L'application tourne en arrière-plan et n'affecte pas les performances de ton PC ni de ton jeu.
 
-Aperçus en jeu Arc Raiders : [images & vidéo](https://github.com/noe-dambreville/Sideviz/tree/main/ressources/arc%20raiders%20apper%C3%A7u) 
+Aperçus en jeu Arc Raiders : [images & vidéo](https://github.com/noe-dambreville/Sideviz/tree/main/img) 
 
 Une aperçue sur [Youtube](https://www.youtube.com/@Dnoe-mp4)
 

@@ -1,22 +1,14 @@
 {
   "name": "Generic",
-  "version": "1.0",
+  "version": "1.1",
   "sensitivity": 0.15,
   "noise_floor": 0.0002,
   "balance_smoothing": 0.2,
   "center_threshold": 0.12,
-  "danger_threshold": 0.6,
-  "opacity": 1.8,
-  "glow_width_max": 200,
-  "glow_width_min_px": 24,
-  "fade_duration_ms": 1800,
-  "min_display_s": 0.25,
-  "min_glow_opacity": 0,
-  "direction_persistence_s": 0.05,
-  "alert_flash": false,
-  "colorblind_mode": "none",
   "low_freq_boost": 1.2,
   "high_freq_boost": 0.9,
-  "visual_mode": "sides",
-  "process_names": []
+  "opacity": 1.8,
+  "glow_width_max": 200,
+  "fade_duration_ms": 1800,
+  "colorblind_mode": "none"
 }

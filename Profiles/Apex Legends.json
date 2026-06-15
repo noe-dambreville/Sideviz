@@ -1,22 +1,14 @@
 {
   "name": "Apex Legends",
-  "version": "1.0",
+  "version": "1.1",
   "sensitivity": 0.1,
   "noise_floor": 0.0003,
   "balance_smoothing": 0.25,
   "center_threshold": 0.09,
-  "danger_threshold": 0.4,
+  "low_freq_boost": 1.0,
+  "high_freq_boost": 1.0,
   "opacity": 1.5,
   "glow_width_max": 200,
-  "glow_width_min_px": 20,
   "fade_duration_ms": 1200,
-  "min_display_s": 0.3,
-  "min_glow_opacity": 0,
-  "direction_persistence_s": 0,
-  "alert_flash": false,
-  "colorblind_mode": "none",
-  "low_freq_boost": 1,
-  "high_freq_boost": 1,
-  "visual_mode": "sides",
-  "process_names": []
+  "colorblind_mode": "none"
 }

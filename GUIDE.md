@@ -145,3 +145,18 @@ Palette de couleurs adaptée à ta vision.
 ## Raccourci clavier
 
 **Ctrl + Shift + V** met l'application en pause ou la reprend depuis n'importe où, sans quitter le jeu.
+
+## Dépannage
+
+### La lueur ne s'affiche pas pendant le jeu
+
+Certains jeux en **plein écran exclusif** prennent la main complète sur l'affichage et masquent **tous** les overlays (Sideviz, mais aussi parfois ceux de Discord ou Steam). Ce n'est pas un bug de Sideviz, c'est une limite de ce mode d'affichage.
+
+**La solution : passe le jeu en « plein écran fenêtré ».**
+
+Dans les paramètres **Vidéo / Graphismes** du jeu, choisis **Plein écran fenêtré** (parfois appelé *Borderless* ou *Fenêtré sans bordure*) au lieu de **Plein écran**. L'image reste identique et en plein écran — mais Sideviz peut alors s'afficher par-dessus.
+
+Exemples :
+- **Valorant** : Paramètres → Vidéo → Général → *Mode d'affichage* → **Plein écran fenêtré**
+
+Astuce : après avoir changé le mode, clique sur le bouton **Tester** dans Sideviz pour vérifier que la lueur s'allume bien à gauche et à droite.

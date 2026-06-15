@@ -32,6 +32,8 @@ Un seul fichier exe sans installation. Compatible Windows 10 et 11.
 
 Fonctionne avec tous les jeux qui ont une sortie audio stéréo. Compatible aussi avec les logiciels audio tiers comme SteelSeries Sonar, Nahimic ou Dolby Atmos.
 
+> **Important** : si la lueur ne s'affiche pas pendant un jeu, passe-le en **plein écran fenêtré** (Borderless) plutôt qu'en plein écran exclusif. Certains jeux en plein écran exclusif masquent tous les overlays. Détails et exemples dans le [guide → Dépannage](GUIDE.md#dépannage).
+
 Des profils optimisés pour certains jeux sont disponibles dans le [dossier Profiles](https://github.com/noe-dambreville/Sideviz/tree/main/Profiles).
 
 ## Licence

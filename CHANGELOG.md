@@ -43,7 +43,7 @@ En bref : le réglage du son devient automatique (fini le calibrage), un bouton 
 - La détection automatique de jeu a été retirée : choisis ton profil à la main dans les paramètres (c'est plus fiable). Ton choix reste actif tant que l'application tourne.
 
 ### Infos techniques
-- les anciens profils de jeu sont obselete et refaire les paramètres.
+- Les anciens profils de jeu sont obsolètes et refaire les paramètres.
 ---
 
 ## [1.0.0] — 2 juin 2026
